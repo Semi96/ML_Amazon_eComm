@@ -1,20 +1,20 @@
-Product,manufacuringCost,transCost
-20in Monitor,32.42,7.31
-27in 4K Gaming Monitor,127.02,7.09
-27in FHD Monitor,68.37,8.61
-34in Ultrawide Monitor,108.18,8.25
-AA Batteries (4-pack),1.11,2.43
-AAA Batteries (4-pack),1.47,2.89
-Apple Airpods Headphones,64.6,6.97
-Bose SoundSport Headphones,33.76,0.64
-Flatscreen TV,135.17,9.94
-Google Phone,246.83,7.87
-iPhone,182.98,7.47
-LG Dryer,249.38,5.56
-LG Washing Machine,255.71,2.52
-Lightning Charging Cable,5.95,7.54
-Macbook Pro Laptop,705.51,9.04
-ThinkPad Laptop,338.15,1.17
-USB-C Charging Cable,5.18,3.04
-Vareebadd Phone,122.29,2.97
-Wired Headphones,3.95,4.76
+product,price,manuCost,transCost,salesFee.total,fee.FBA,fee.monthlyStorage,profit,volume.cbm,weight.lbs,l,w,d
+20in Monitor,109.99,36.20,8.25,29.34,12.84,0.730,36.20,0.028080935,5.5,18,7,13.6
+27in 4K Gaming Monitor,389.99,148.60,15,77.80,19.3,1.729,148.60,0.066505407,10,24,17.8,9.5
+27in FHD Monitor,149.99,47.35,13.5,41.80,19.3,1.729,47.35,0.066505407,9,24,17.8,9.5
+34in Ultrawide Monitor,379.99,135.94,25.35,82.76,25.76,2.752,135.94,0.105860666,16.9,34,19,10
+AA Batteries (4-pack),3.84,0.56,0.15,2.58,2,0.003,0.56,0.000109138,0.1,0.6,3.7,3
+AAA Batteries (4-pack),2.99,0.20,0.15,2.45,2,0.003,0.20,0.000109138,0.1,0.6,3.7,3
+Apple Airpods Headphones,150,61.72,0.6,25.97,3.47,0.008,61.72,0.000314632,0.4,4,3,1.6
+Bose SoundSport Headphones,99.99,40.54,0.45,18.47,3.47,0.013,40.54,0.000491613,0.3,4,3,2.5
+Flatscreen TV,300,103.63,20.85,71.90,26.9,2.877,103.63,0.110638292,13.9,8.7,34.8,22.3
+Google Phone,600,252.13,1.5,94.25,4.25,0.047,252.13,0.001817002,1,7.7,4.8,3
+iPhone,700,294.63,1.5,109.25,4.25,0.068,294.63,0.002621936,1,8,5,4
+LG Dryer,600,41.41,225,292.18,202.18,9.039,41.41,0.347668714,150,24,26,34
+LG Washing Machine,600,33.91,240,292.18,202.18,17.179,33.91,0.660727872,160,42,32,30
+Lightning Charging Cable,14.95,4.37,0.495,5.71,3.47,0.010,4.37,0.00039329,0.33,4,3,2
+Macbook Pro Laptop,1700,714.22,6,265.56,10.56,0.367,714.22,0.014132235,4,15.4,14,4
+ThinkPad Laptop,999.99,416.72,6,160.56,10.56,0.335,416.72,0.012870428,4,16.5,11.9,4
+USB-C Charging Cable,11.95,3.10,0.495,5.26,3.47,0.010,3.10,0.00039329,0.33,4,3,2
+Vareebadd Phone,400,166.98,1.8,64.25,4.25,0.052,166.98,0.002005781,1.2,8.5,4.8,3
+Wired Headphones,11.99,3.21,0.3,5.27,3.47,0.006,3.21,0.00021336,0.2,3.1,2.8,1.5
