@@ -1,2 +1,2 @@
-Year,Quarter,OilPrice,ExChUs,USCPI,USPMI,avgCASS
-2020,4,39.9,6.7254,260.462,58.8,1.152
+Year,Quarter,OilPrice,ExChUs,USCPI,USPMI,avgCASS,PrevQuarterCASS
+2020,4,39.9,6.7254,260.462,58.8,1.152,1.098
